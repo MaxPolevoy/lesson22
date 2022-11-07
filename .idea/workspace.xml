@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3061cbf5-2630-4f64-bbcc-18f0441d92de" name="Changes" comment="" />
+    <list default="true" id="3061cbf5-2630-4f64-bbcc-18f0441d92de" name="Changes" comment="Lesson22 - Classwork Servlet" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/62635/IdeaProjects/TSM-2/lesson22",
+    "last_opened_file_path": "C:/Users/62635/IdeaProjects/TMS2/lesson22",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2908046"
@@ -156,7 +156,16 @@
       <workItem from="1667835579656" duration="2498000" />
       <workItem from="1667848685676" duration="13000" />
       <workItem from="1667848829367" duration="328000" />
+      <workItem from="1667849360952" duration="331000" />
     </task>
+    <task id="LOCAL-00001" summary="Lesson22 - Classwork Servlet">
+      <created>1667849453280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667849453280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,5 +181,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson22 - Classwork Servlet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson22 - Classwork Servlet" />
   </component>
 </project>
