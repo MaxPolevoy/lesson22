@@ -18,6 +18,7 @@ public class HelloServlet extends HttpServlet {
     }
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
         PrintWriter writer = response.getWriter();//реализация класса getWriter у респонса
 
         String name = request.getParameter("name");

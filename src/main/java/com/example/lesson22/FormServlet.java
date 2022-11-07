@@ -14,6 +14,7 @@ public class FormServlet extends HttpServlet {
     @Override
     // метод doPost
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
         PrintWriter writer = response.getWriter();
         writer.println("<html>" +
                 "<h1>Please provide your name:</h1>" +
